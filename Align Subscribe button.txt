@@ -1,0 +1,9 @@
+.elementor-field-group.elementor-field-type-submit{
+    align-items: flex-start !important;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    -moz-align-items: flex-start;
+}
+button {
+    margin: 0;
+}
