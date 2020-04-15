@@ -1,0 +1,11 @@
+.entry {text-align:justify !important;}
+p {text-align:justify;}
+blockquote {
+margin: 20px;
+padding: 20px;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+font-size: 20px;
+color: #428bca; 
+background: #EEEEEE;
+border-left:7px solid #ff5555;
+}
